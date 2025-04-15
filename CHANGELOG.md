@@ -3,3 +3,6 @@
 -Adicionado o index.html
 -Adicionado os conteudos do index.html
 -Adiccionado o arquivo styles.css e os estilos do index.html
+
+# v0.1.1
+-Adicionando paragrafos à pagina index.html
