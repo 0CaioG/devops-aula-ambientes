@@ -6,3 +6,6 @@
 
 # v0.1.1
 -Adicionando paragrafos à pagina index.html
+
+# v0.1.2
+-Adicionando estilo aos paragrafos.
